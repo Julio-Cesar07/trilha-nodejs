@@ -1,3 +1,7 @@
+# Iniciar projeto
+npm install && npm run knex -- migrate:latest && npm run build
+
+
 # RF
 
 - [x] O usuário deve poder criar uma nova transação;
